@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 7290bda6e053c48d7b9029faad6c9669, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7290bda6e053c48d7b9029faad6c9669, type: 3}
       propertyPath: m_LocalPosition.x
@@ -180,6 +180,120 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7290bda6e053c48d7b9029faad6c9669, type: 3}
+--- !u!1001 &388190124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1268
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6366
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.3227
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7092602
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.69829565
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0919308
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.029695535
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -95.122
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 95.053
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -104.92999
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_Name
+      value: DrumStick R
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+--- !u!1001 &625743069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1277
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6384
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.4289
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7057943
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.69984645
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.038464446
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.10290717
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -84.754
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -78.984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
+      propertyPath: m_Name
+      value: DrumStick L
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 61c250c5d30354cd7a724ceae1702ea9, type: 3}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
