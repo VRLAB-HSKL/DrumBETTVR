@@ -13,10 +13,7 @@ public class BaseDrumCollider : MonoBehaviour
     
     void OnCollisionEnter(Collision collision)
     {
-
         ac.PlayOneShot(ac.clip);
-       
-        
     }
 
     // Update is called once per frame

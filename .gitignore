@@ -1,5 +1,8 @@
 # Drum Sounds müssen selbst mitgebracht werden
 **/Assets/Sounds/Drums/*
+# Die Textur für den Schlagzeugteppich muss selbst eingefügt werden
+**/Assets/Materials/Drum Rug.jpg
+**/Assets/Materials/Drum Rug.jpg.meta
 
 # gitignore for Unity projects
 # Keine ignores fÃ¼r VR-Assets wie Steam

@@ -13,7 +13,7 @@ public class DetectCollisions : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         if (collision.collider.GetComponent<PositionTracker>().positionDelta.y < 0) return;
-        Debug.Log("Collision: " + collision.collider.tag);
+        // Debug.Log("Collision: " + collision.collider.tag);
             
         ac.PlayOneShot(ac.clip);
        

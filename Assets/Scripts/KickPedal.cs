@@ -19,8 +19,9 @@ public class KickPedal : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // 0.9, 1.2
-        Debug.Log((-footTracker.transform.position.y + 1.3) * 3);
+        // Ca. die Hoehe des Trackers, wenn Animation gestartet wird: (Kick Pedal weg von Bass Drum): 1.2
+        // Ca. die Hoehe, wenn Kick Pedal an der Bass Drum anliegt: 0.9
+        // Debug.Log((-footTracker.transform.position.y + 1.3) * 3);
         anim.Play("Scene", 0, (float)(-footTracker.transform.position.y + 1.3) * 3);
     }
 }
